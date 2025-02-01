@@ -8,6 +8,7 @@
 
 
  > ℹ️ **NOTE:** Projeto desenvolvido no curso DIO Coding The Future CAIXA - IA Generativa com Microsoft Copilot
+Desvendando o Espiritismo: Como Tudo Começou
 
 ## 💻 Tecnologias utilizadas no projeto
 
