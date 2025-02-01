@@ -7,7 +7,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Projeto desenvolvido no curso DIO Coding The Future CAIXA - IA Generativa com Microsoft Copilot - <br>
+ > ℹ️ Projeto desenvolvido no curso DIO Coding The Future CAIXA - IA Generativa com Microsoft Copilot - <br>
 Desvendando o Espiritismo: Como Tudo Começou
 
 ## 💻 Tecnologias utilizadas no projeto
