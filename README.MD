@@ -30,6 +30,11 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 
 ## 👨‍💻 Expert
+<p>
+THAMY KANNAH ;)
+ <a href="https://www.instagram.com/thamykannah.exe/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
 
 
 ---
